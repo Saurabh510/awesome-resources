@@ -4,7 +4,7 @@ Awesome coding and learning resources for everyone.
 Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it is free. There is tag for every link it is either Free - :free:,  Paid - :moneybag: or Mixed - :arrows_counterclockwise:.
 
 ####Coding resources for beginners of all ages 
-
++ <a href="http://www.hackerrank.com/" target="_blank"> W3schools </a> A collection of coding challanges and place of contasts for each level of coders. :free:
 + <a href="https://code.org/" target="_blank"> Code.org Tutorials </a> Simple tutorials/puzzles for beginners that can be completed in an hour or less. :free:
 + <a href="https://www.codecademy.com/" target="_blank"> Codeacademy </a> Learn to code interactively, for free, on the web. Skill you will learn: HTML/CSS, JavaScript, Python, jQuery, PHP, SQL, AngularJS, Ruby on Rails and more! :free:
 + <a href="http://www.tutorialspoint.com/" target="_blank"> Tutorialspoint </a> Tutorials for WebGL, Drupal, SQL, Wordpress, XAML, W3CSS, SVG, Web Icons, Web Analytics, Google Maps, Joomla, Magento, Apex, Emberjs, BackboneJS, KnockoutJS, Node.js and more! :free:
